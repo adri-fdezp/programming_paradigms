@@ -4,6 +4,8 @@ It simulates the behavior of a gas station where there are 200 cars that want to
 Both cars and operators are threads that run concurrently. 
 In addition, there is an RMI communication module for distributed communication between interfaces.
 
+It was created in the NetBeans programming environment.
+
 -/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/
 
 Este proyecto fue creado como parte de la asignatura de paradigmas de la programación en el curso 2021/2022.
@@ -11,3 +13,5 @@ Este proyecto fue creado como parte de la asignatura de paradigmas de la program
 Simula el comportamiento de una gasolinera donde existen 200 coche que quieren repostar, 3 operarios y 8 surtidores. 
 Tanto los coches como los opearios son hilos que se ejecutan de forma concurrente. 
 Además, existe un módulo de comunicación RMI para una comunicación distrinbuida entre interfaces.
+
+Fue creado en el entorno de programación NetBeans.
